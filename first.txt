@@ -2,4 +2,9 @@ Today is Tuesday
 Month is july
 year is 2022
 It is raining heavily today here
+<<<<<<< HEAD
 LNT is in mahape
+=======
+hihi
+day 2
+
